@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 This is the new edit to the READ.ME file from Github. ( Checked fetch and merge functions)
 
-Checking Pull function now.
+Checking Pull function now
